@@ -1,5 +1,5 @@
-@import "PT-Mono/reset.css";
-@import "PT-Mono/content.css";
+@import "./reset.css";
+@import "./content.css";
 
 @font-face {
 	font-family: 'PTMonoWebRegular';
